@@ -79,8 +79,8 @@ a {
     color: #fff;
     padding: 15px;
 }
-.cv-btn:hover {
-    background-color: #00A9F7;
+.cv:hover {
+    background-color: #365b6b;
     transition: all ease .5s;
 }
 .social {
